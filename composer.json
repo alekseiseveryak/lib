@@ -1,0 +1,15 @@
+{
+    "name": "severyak/lib",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Aleksei Severyak",
+            "email": "severyachok@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Severyak\\": "/src/"
+        }
+    }
+}
