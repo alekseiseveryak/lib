@@ -9,7 +9,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Severyak\\": "/src/"
+            "Severyak\\": "src/"
         }
     }
 }
